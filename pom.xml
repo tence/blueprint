@@ -29,7 +29,7 @@
     <plugin.sonar.version>3.6.1.1688</plugin.sonar.version>
     <plugin.jacoco.version>0.8.4</plugin.jacoco.version>
     <!-- sonar -->
-    <sonar.organization>jhagestedt</sonar.organization>
+    <sonar.organization>tence</sonar.organization>
     <sonar.projectKey>${sonar.organization}_${project.artifactId}</sonar.projectKey>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
@@ -67,7 +67,7 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/jhagestedt/blueprint</url>
+      <url>https://maven.pkg.github.com/tence/blueprint</url>
     </repository>
   </distributionManagement>
 
